@@ -1,0 +1,8 @@
+.background {
+    background-image: url('img.svg'); /* Replace 'your-svg-image.svg' with the actual path to your SVG image */
+    background-size: cover; /* Adjust the size of the background image */
+    background-position: left; /* Center the background image */
+    height: 300cm; /* Set the height of the div */
+    width: 100%; /* Set the width of the div */
+  }
+  

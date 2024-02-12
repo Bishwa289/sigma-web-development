@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background-color: green;
+}
+.box1{
+    color: red;
+    margin: 5px;
+    border:4px solid violet;
+    padding:10px;
+    height: 70px;
+    box-sizing:border-box;   
+    /* box-sizing:content-box; this is the default(means height and width changes but of content only)*/
+    /* if we make height 0 then only padding border comes to their actual size */
+}
+.box2{
+    color: blue;
+}

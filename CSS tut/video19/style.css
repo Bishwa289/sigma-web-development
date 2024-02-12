@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+.firstp {
+    font-family: 'Protest Riot', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    /* we can put values in font-weight upto 1000 */
+    text-decoration:underline;
+                    /* overline */
+                    /* line-through */
+    line-height: 4;
+    letter-spacing: 10px;
+}
+.secp{
+    border: 2px solid red;
+    width: 30px;
+    word-break:break-all;        
+    /* text-overflow:ellipsis; */
+                  /*clip  */
+    /* overflow:hidden; */
+            /*scroll*/
+}
+h2{
+    text-align:center;
+                /*end  */
+                /*justify  */
+                /*left  */
+                /*right */
+    text-transform:capitalize;
+                    /*uppercase */
+                    /* lowercase*/
+    text-decoration: underline;                
+    text-decoration-color: aqua;  
+    text-decoration-style:dashed;
+                         /*dotted*/
+                         /*solid*/
+                         /*double*/
+                         /*wavy*/
+    text-decoration-thickness:7px;  
+    text-indent: 45px;                  
+}
