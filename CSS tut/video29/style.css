@@ -27,7 +27,7 @@ img{
 }
 .nc{
     padding:7px;
-    border: 2px solid grey;
+    border: 2px solid rgb(204, 202, 202);
     border-radius: 20px;
     max-width: 100px;
 }
@@ -40,7 +40,7 @@ img{
 }
 .lc{
     padding: 7px;
-    border: 2px solid grey;
+    border: 2px solid rgb(204, 202, 202);;
     border-radius: 20px;
     max-width: 100px;
 }
@@ -49,12 +49,16 @@ img{
     padding: 20px;
 }
 .Read{
-    border: 2px solid grey;
+    border: 2px solid rgb(204, 202, 202);;
     border-radius: 20px;
     display: inline-block;
     padding: 20px;
     margin: auto;
     color: blue;
     background-color: rgb(158, 158, 212);
+}
+.Read:hover{
+    background-color: rgb(194, 225, 246);
+    color: rgb(10, 136, 214);
 }
 
